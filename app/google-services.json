@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481274452233",
+    "firebase_url": "https://musoboqa-default-rtdb.firebaseio.com",
+    "project_id": "musoboqa",
+    "storage_bucket": "musoboqa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481274452233:android:d61cad5e8068d703289bd8",
+        "android_client_info": {
+          "package_name": "uz.muhammadziyo.musoboqa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481274452233-hrrgotjlhkdvp8i5dcv6jc6bsmqaluld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbHNvzx9rDAkiMfimn6yHeVxhEm-7b4c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481274452233-hrrgotjlhkdvp8i5dcv6jc6bsmqaluld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
